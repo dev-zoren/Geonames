@@ -1,0 +1,7 @@
+vendor/
+build/
+.env
+.idea
+/packages/
+.phpunit.result.cache
+scratch.php
