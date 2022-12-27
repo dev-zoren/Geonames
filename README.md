@@ -13,7 +13,7 @@ There is still a lot that needs to be done to make this package "complete". I've
 
 ## Installation
 ```
-composer require michaeldrennen/geonames
+composer require dev-zoren/geonames
 ```
 And then add `geonames` provider to `providers` array in `app.php` config file:
 
